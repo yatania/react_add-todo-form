@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,OACE,yBAAkB,CAAlB,iBACF,CAEA,OACE,WACF","file":"main.15958ba0.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.input {\n  width: max-content;\n}\n\n.error {\n  color: brown;\n}\n"]}
